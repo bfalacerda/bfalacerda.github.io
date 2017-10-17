@@ -1,7 +1,0 @@
-@InProceedings{mudrova15,
-  author = 	 {Mudrov{\'a}, Lenka and Lacerda, Bruno and Hawes, Nick},
-  title = 	 {An Integrated Control Framework for Long-Term Autonomy in Mobile Service Robots},
-  booktitle = 	 {Proc. of the 7th European Conference on Mobile Robotics},
-  year =	 {2015},
-  address =	 {Lincoln, United Kingdom},
-}
