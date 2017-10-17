@@ -1,0 +1,7 @@
+@InProceedings{lacerdairos14,
+  author = 	 {Bruno Lacerda and David Parker and Nick Hawes},
+  title = 	 {Optimal and dynamic planning for {M}arkov decision processes with co-safe {LTL} specifications},
+  booktitle = 	 {Proceedings of  IROS '14 - The 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year =	 {2014},
+  address =	 {Chicago, IL, USA},
+}
