@@ -1,0 +1,7 @@
+@InProceedings{fentanesicra15,
+  author = 	 {Pulido Fentanes, Jaime and Lacerda, Bruno and Krajn{\'i}k, Tom{\'a}{\v s} and Hawes, Nick and Hanheide, Marc},
+  title = 	 {Now or later? {P}redicting and maximising success of navigation actions from long-term experience},
+  booktitle = 	 {Proceedings of  ICRA '15 - The 2015 IEEE International Conference on Robotics and Automation},
+  year =	 {2015},
+  address =	 {Seattle, WA, USA},
+}
