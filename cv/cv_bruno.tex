@@ -1,0 +1,82 @@
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{hyperref}
+\usepackage{eurosym}
+\usepackage[
+    style=numeric,
+    sorting=none,
+    maxbibnames=99]{biblatex}
+
+\DeclareCiteCommand{\fullcite}
+  {\usebibmacro{prenote}}
+   {{\printtext[labelnumberwidth]{% New
+        \printfield{prefixnumber}% New
+        \printfield{labelnumber}}} % New
+  \usedriver
+     {\DeclareNameAlias{sortname}{default}}
+     {\thefield{entrytype}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\addbibresource{bibliob.bib}
+
+
+\name{Bruno Lacerda} % Your name
+\address{\url{https://ori.ox.ac.uk/\~bruno}} % Your phone number and email
+\address{\href{mailto:bruno@robots.ox.ac.uk}{bruno@robots.ox.ac.uk}} % Your phone number and email
+\address{Senior Researcher in Robotics} % Your address
+
+\begin{document}
+\nocite{*}
+
+\input{tex/statement}
+
+\input{tex/education.tex}
+
+\input{tex/research_positions}
+
+\input{tex/projects}
+
+\input{tex/teaching}
+
+\input{tex/supervision}
+
+\pagebreak
+
+\input{tex/visits}
+
+\input{tex/funding}
+
+\input{tex/invited_talks}
+
+\input{tex/service}
+
+\input{tex/industrial_positions}
+
+\input{tex/publications}
+
+
+\end{document}
