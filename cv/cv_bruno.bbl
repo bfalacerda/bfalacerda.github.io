@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.6 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,34 +18,36 @@
 
 
 \refsection{0}
-  \sortlist[entry]{none/global}
+  \sortlist[entry]{none/global/}
     \entry{lacerda_ijrr19}{article}{}
       \name{author}{4}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=b934f5b56349a133a8354a397274c228}{%
            family={Faruq},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Fatma},
-           given_i={F\bibinitperiod}}}%
+           giveni={F\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \strng{namehash}{6945954a114e79ee4d7408398431c44d}
       \strng{fullhash}{9827a0603ddf20c2afa918de9a01b079}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{6945954a114e79ee4d7408398431c44d}
+      \strng{authorfullhash}{9827a0603ddf20c2afa918de9a01b079}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Robotics Research (IJRR)}
@@ -57,29 +59,31 @@
       \name{author}{4}{}{%
         {{hash=2f18adc3bbca7c00003250c5bc2abb0d}{%
            family={Mansouri},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={Masoumeh},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=e414226627c532eeba13292de416a574}{%
            family={Pecora},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Federico},
-           given_i={F\bibinitperiod}}}%
+           giveni={F\bibinitperiod}}}%
       }
       \strng{namehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{fullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{5759e533b484b7edd83bb1378d7960eb}
+      \strng{authorfullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 28th Int. Joint Conf. on Artificial Intelligence (IJCAI)}
@@ -91,24 +95,26 @@
       \name{author}{3}{}{%
         {{hash=f2d5f1199270933640b20bb23f0274bb}{%
            family={Rigter},
-           family_i={R\bibinitperiod},
+           familyi={R\bibinitperiod},
            given={Marc},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 2019 IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)}
@@ -120,174 +126,176 @@
       \name{author}{33}{}{%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=71618de0f17b89e579ecf929d48f42ad}{%
            family={Burbridge},
-           family_i={B\bibinitperiod},
+           familyi={B\bibinitperiod},
            given={Christopher},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=dd3a55a1e68473ab0e8a4b2c75e7e4cb}{%
            family={Jovan},
-           family_i={J\bibinitperiod},
+           familyi={J\bibinitperiod},
            given={Ferdian},
-           given_i={F\bibinitperiod}}}%
+           giveni={F\bibinitperiod}}}%
         {{hash=2a9dd9545aabe2e7fb708aaa3b8cb12e}{%
            family={Kunze},
-           family_i={K\bibinitperiod},
+           familyi={K\bibinitperiod},
            given={Lars},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=551c9b438e292b74bb7740e385b842aa}{%
            family={Mudrova},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={Lenka},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=39783b16b0081674efee29cc1f5893aa}{%
            family={Young},
-           family_i={Y\bibinitperiod},
+           familyi={Y\bibinitperiod},
            given={Jay},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=5d69ee29d80884f3a5153c6e6d746040}{%
            family={Wyatt},
-           family_i={W\bibinitperiod},
+           familyi={W\bibinitperiod},
            given={Jeremy},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=a6135e6194eeeed6fbb9bbad0c785e5b}{%
            family={Hebesberger},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Denise},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=8ae097e503adc3af2f35b376437a2dc5}{%
            family={Kortner},
-           family_i={K\bibinitperiod},
+           familyi={K\bibinitperiod},
            given={Tobias},
-           given_i={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod}}}%
         {{hash=05c93b9fbf514de4c6ec52be37ed7836}{%
            family={Ambrus},
-           family_i={A\bibinitperiod},
+           familyi={A\bibinitperiod},
            given={Rares},
-           given_i={R\bibinitperiod}}}%
+           giveni={R\bibinitperiod}}}%
         {{hash=36e4bafe3939c7f1c01644b677124036}{%
            family={Bore},
-           family_i={B\bibinitperiod},
+           familyi={B\bibinitperiod},
            given={Nils},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=2c831f7391a51d1af954ec08ee67b781}{%
            family={Folkesson},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={John},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=bc701ed6cdd780c58374a3c2ee384cf0}{%
            family={Jensfelt},
-           family_i={J\bibinitperiod},
+           familyi={J\bibinitperiod},
            given={Patric},
-           given_i={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod}}}%
         {{hash=836254958eac09b30d45dd67a75ce4fa}{%
            family={Beyer},
-           family_i={B\bibinitperiod},
+           familyi={B\bibinitperiod},
            given={Lucas},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=9709daf6a30bbc4fa10021197e7c88eb}{%
            family={Hermans},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Alexander},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=89e3f1ee83923a2c7a44b7597b35fccd}{%
            family={Leibe},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bastian},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=f256cb375749fc14422f4cd670462770}{%
            family={Aldoma},
-           family_i={A\bibinitperiod},
+           familyi={A\bibinitperiod},
            given={Aitor},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
         {{hash=8a34b87434162d3c4ba58f8c5d45e1dd}{%
            family={Faulhammer},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Thomas},
-           given_i={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod}}}%
         {{hash=8412c50eb8e14748ab95a1e7d26e43ad}{%
            family={Zillich},
-           family_i={Z\bibinitperiod},
+           familyi={Z\bibinitperiod},
            given={Michael},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=d92691846c0aa716d6f814788a488be9}{%
            family={Vincze},
-           family_i={V\bibinitperiod},
+           familyi={V\bibinitperiod},
            given={Markus},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=b7c5aefbf52dd799d2a00e7633283917}{%
            family={Chinellato},
-           family_i={C\bibinitperiod},
+           familyi={C\bibinitperiod},
            given={Eris},
-           given_i={E\bibinitperiod}}}%
+           giveni={E\bibinitperiod}}}%
         {{hash=ab5d9dec9dbc503c22ba55328df3428f}{%
            family={Al-Omari},
-           family_i={A\bibinithyphendelim O\bibinitperiod},
+           familyi={A\bibinithyphendelim O\bibinitperiod},
            given={Muhannad},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
         {{hash=bf30daafe5dc3e539ddb8c23c9b4601c}{%
            family={Duckworth},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Paul},
-           given_i={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod}}}%
         {{hash=009963595c7f12737146851fdf431532}{%
            family={Gatsoulis},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={Yiannis},
-           given_i={Y\bibinitperiod}}}%
+           giveni={Y\bibinitperiod}}}%
         {{hash=9a8646825c85c55efa8551e30818b085}{%
            family={Hogg},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={David\bibnamedelima C.},
-           given_i={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=6dd6b7a2c819af2433c95dab3e7b12ed}{%
            family={Cohn},
-           family_i={C\bibinitperiod},
+           familyi={C\bibinitperiod},
            given={Anthony\bibnamedelima G.},
-           given_i={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=3bc3c92ae6b944eaed56c03d9343cd1a}{%
            family={Dondrup},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Christian},
-           given_i={C\bibinitperiod}}}%
+           giveni={C\bibinitperiod}}}%
         {{hash=c4c47469ef00dda36a03817cdb5ccd5e}{%
            family={Fentanes},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Jaime\bibnamedelima P.},
-           given_i={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
         {{hash=2d4c9dd3633a17571128b408ca0d033b}{%
            family={Krajnik},
-           family_i={K\bibinitperiod},
+           familyi={K\bibinitperiod},
            given={Tomas},
-           given_i={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod}}}%
         {{hash=26d02fc4b496f7e3292666a6cfa05a68}{%
            family={Santos},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Joao\bibnamedelima M.},
-           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=44f7f2de4fcf39874fdaea11b04e77a3}{%
            family={Duckett},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Tom},
-           given_i={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod}}}%
         {{hash=38a01afd138117b50f739c761c042bfd}{%
            family={Hanheide},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Marc},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{9a97fba32fc773dafe25da2cf63a1d23}
       \strng{fullhash}{0f43c04a29a714d728cb52226e6c2811}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{9a97fba32fc773dafe25da2cf63a1d23}
+      \strng{authorfullhash}{0f43c04a29a714d728cb52226e6c2811}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Robotics Automation Magazine}
@@ -301,19 +309,21 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Automatic Control}
@@ -327,19 +337,21 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{6}
+      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Physical Agents}
@@ -353,32 +365,34 @@
       \name{author}{4}{}{%
         {{hash=b934f5b56349a133a8354a397274c228}{%
            family={Faruq},
-           family_i={F\bibinitperiod},
+           familyi={F\bibinitperiod},
            given={Fatma},
-           given_i={F\bibinitperiod}}}%
+           giveni={F\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Madrid, Spain}%
       }
       \strng{namehash}{9c3ef1aae5699f41db45eae88c97f37f}
       \strng{fullhash}{fe9972730cd09194b861d5eb558f1b4e}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{9c3ef1aae5699f41db45eae88c97f37f}
+      \strng{authorfullhash}{fe9972730cd09194b861d5eb558f1b4e}
+      \field{sortinit}{7}
+      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 2018 IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)}
@@ -390,27 +404,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Pittsburgh, PA, USA}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{8}
+      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 27th Int. Conf on Automated Planning and Scheduling (ICAPS)}
@@ -422,27 +438,29 @@
       \name{author}{3}{}{%
         {{hash=33ec25c23d7c4aec9c1723e78fb4d8a4}{%
            family={Mudrov\'{a}},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={Lenka},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {The Hague, Netherlands}%
       }
       \strng{namehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{fullhash}{ab5ada1ad662fb0e63de2f12eb748353}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{authorfullhash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 22nd European Conf. on Artificial Intelligence (ECAI)}
@@ -454,27 +472,29 @@
       \name{author}{3}{}{%
         {{hash=33ec25c23d7c4aec9c1723e78fb4d8a4}{%
            family={Mudrov\'{a}},
-           family_i={M\bibinitperiod},
+           familyi={M\bibinitperiod},
            given={Lenka},
-           given_i={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Lincoln, United Kingdom}%
       }
       \strng{namehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{fullhash}{ab5ada1ad662fb0e63de2f12eb748353}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{authorfullhash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 7th European Conf. on Mobile Robotics (ECMR)}
@@ -486,27 +506,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Buenos Aires, Argentina}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 24th Int. Joint Conf. on Artificial Intelligence (IJCAI)}
@@ -518,37 +540,39 @@
       \name{author}{5}{}{%
         {{hash=62bc57a9a77ad7c8702bea0c7a4ea9e6}{%
            family={Pulido\bibnamedelima Fentanes},
-           family_i={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod},
            given={Jaime},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=9a5b2223e394a820b0995dad94395546}{%
-           family={Krajn\'\i{}k},
-           family_i={K\bibinitperiod},
+           family={Krajn\'{\i}k},
+           familyi={K\bibinitperiod},
            given={Tom\'{a}\v{s}},
-           given_i={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
         {{hash=38a01afd138117b50f739c761c042bfd}{%
            family={Hanheide},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Marc},
-           given_i={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Seattle, WA, USA}%
       }
       \strng{namehash}{4004f1151d271cdbcd4276b2a233a2c9}
       \strng{fullhash}{73981e6c10b67c858f07e6007af869bc}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{4004f1151d271cdbcd4276b2a233a2c9}
+      \strng{authorfullhash}{73981e6c10b67c858f07e6007af869bc}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 2015 IEEE Int. Conf. on Robotics and Automation (ICRA)}
@@ -560,27 +584,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chicago, IL, USA}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 2014 IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)}
@@ -592,22 +618,24 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {San Francisco, CA, USA}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 2011 IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS)}
@@ -619,22 +647,24 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Los Angeles, CA, USA}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of Robotics: Science and Systems VII (RSS)}
@@ -646,22 +676,24 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Taipei, Taiwan}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 10th Int. Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS)}
@@ -673,32 +705,34 @@
       \name{author}{4}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
         {{hash=3d222ee4a51c79a70c08cd770e6155d1}{%
            family={Gorostiza},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={Javi},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
         {{hash=1e3133426335486235440b89ac746d0b}{%
            family={Salichs},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Miguel\bibnamedelima A.},
-           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Lisbon, Portugal}%
       }
       \strng{namehash}{6945954a114e79ee4d7408398431c44d}
       \strng{fullhash}{4c3fc5ad4df37e8d51e749ddff7d1125}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{6945954a114e79ee4d7408398431c44d}
+      \strng{authorfullhash}{4c3fc5ad4df37e8d51e749ddff7d1125}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 11th Int. Conf. on Mobile Robots and Competitions}
@@ -710,22 +744,24 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Coimbra, Portugal}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the 1st Portuguese Conference on Wireless Sensor Networks (CNRS)}
@@ -737,27 +773,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Oxford, United Kingdom}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of the Int. Workshop on the Verification and Validation of Autonomous Systems (VaVAS)}
@@ -769,27 +807,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Arlington, Virginia, USA}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{AAAI Fall Symposium on Sequential Decision Making for Intelligent Agents (SDMIA)}
@@ -801,27 +841,29 @@
       \name{author}{3}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=85aa04746604480ce47f280e167052ff}{%
            family={Parker},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={David},
-           given_i={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Nick},
-           given_i={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Edinburgh, Scotland, UK}%
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of th 31st Workshop of the UK Planning \& Scheduling Special Interest Group (PlanSIG)}
@@ -833,22 +875,24 @@
       \name{author}{2}{}{%
         {{hash=7191d5738229718fe891c52a6cd9102b}{%
            family={Lacerda},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Bruno},
-           given_i={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod}}}%
         {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
            family={Lima},
-           family_i={L\bibinitperiod},
+           familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
-           given_i={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+           giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Budapest, Hungary}%
       }
       \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
+      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proc. of Workshop ADAPT at AAMAS '09 - Agent Design: Advancing from Practice to Theory}

@@ -1,19 +1,22 @@
-[0] Config.pm:340> INFO - This is Biber 2.4
-[0] Config.pm:343> INFO - Logfile is 'cv_bruno.blg'
-[31] biber:287> INFO - === Mon Mar 11, 2019, 09:28:11
-[107] Biber.pm:348> INFO - Reading 'cv_bruno.bcf'
-[219] Biber.pm:739> INFO - Using all citekeys in bib section 0
-[227] Biber.pm:3151> INFO - Processing section 0
-[255] Biber.pm:3308> INFO - Looking for bibtex format file 'bibliob.bib' for section 0
-[286] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[313] bibtex.pm:974> INFO - Found BibTeX data source 'bibliob.bib'
-[585] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[586] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[586] Biber.pm:3028> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'en-US'
-[586] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[601] bbl.pm:519> INFO - Writing 'cv_bruno.bbl' with encoding 'ascii'
-[677] Utils.pm:147> WARN - The entry 'mudrova_ecai16' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[683] Utils.pm:147> WARN - The entry 'mudrova_ecmr15' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[696] Utils.pm:147> WARN - The entry 'fentanes_icra15' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[755] bbl.pm:615> INFO - Output to cv_bruno.bbl
-[755] Biber.pm:109> INFO - WARNINGS: 3
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'cv_bruno.blg'
+[36] biber-darwin:303> INFO - === Tue Apr  2, 2019, 12:50:44
+[56] Biber.pm:359> INFO - Reading 'cv_bruno.bcf'
+[132] Biber.pm:832> INFO - Using all citekeys in bib section 0
+[147] Biber.pm:3670> INFO - Processing section 0
+[160] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliob.bib' for section 0
+[168] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[177] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliob.bib'
+[183] Utils.pm:164> WARN - year field 'Submitted' in entry 'mansouri_ijcai19' is not an integer - this will probably not sort properly.
+[190] Utils.pm:164> WARN - year field 'Conditionally Accepted' in entry 'lacerda_ijrr19' is not an integer - this will probably not sort properly.
+[209] Utils.pm:164> WARN - year field 'Submitted' in entry 'rigter_iros19' is not an integer - this will probably not sort properly.
+[233] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[233] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[233] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[233] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[246] bbl.pm:608> INFO - Writing 'cv_bruno.bbl' with encoding 'ascii'
+[251] Utils.pm:164> WARN - The entry 'mudrova_ecai16' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[251] Utils.pm:164> WARN - The entry 'mudrova_ecmr15' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[253] Utils.pm:164> WARN - The entry 'fentanes_icra15' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[255] bbl.pm:712> INFO - Output to cv_bruno.bbl
+[255] Biber.pm:109> INFO - WARNINGS: 6
