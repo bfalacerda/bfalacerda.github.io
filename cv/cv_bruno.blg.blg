@@ -1,5 +1,5 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'cv_bruno.blg.blg'
-[35] biber-darwin:303> INFO - === Thu Jul  4, 2019, 15:36:49
-[158] Utils.pm:180> ERROR - Cannot find control file 'cv_bruno.blg.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
-[159] Biber.pm:113> INFO - ERRORS: 1
+[45] biber-darwin:303> INFO - === Sat Jan 30, 2021, 19:27:02
+[403] Utils.pm:180> ERROR - Cannot find control file 'cv_bruno.blg.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[403] Biber.pm:113> INFO - ERRORS: 1

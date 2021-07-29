@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.4)  27 MAY 2020 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.4)  29 JUL 2021 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -503,6 +503,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./tex
 /teaching.tex) (./tex/supervision.tex [2])
 (./tex/visits.tex) (./tex/funding.tex
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no ‚ in font cmbx10!
+
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
@@ -527,43 +530,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-) (./tex/invited_talks.tex) [3] (./tex/service.tex [4])
-(./tex/industrial_positions.tex) (./tex/publications.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
- [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+[3]) (./tex/invited_talks.tex) (./tex/service.tex [4])
+(./tex/industrial_positions.tex [5]) (./tex/publications.tex [6] [7])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
 
 (./cv_bruno.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `cv_bruno.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'cv_bruno.run.xml'.
 \openout1 = `cv_bruno.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 11365 strings out of 492995
- 193303 string characters out of 6132705
- 642963 words of memory out of 5000000
- 14785 multiletter control sequences out of 15000+600000
- 9027 words of font info for 32 fonts, out of 8000000 for 9000
+ 11402 strings out of 492995
+ 194484 string characters out of 6132705
+ 643235 words of memory out of 5000000
+ 14807 multiletter control sequences out of 15000+600000
+ 8764 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,5n,45p,913b,1327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,4n,45p,913b,1323s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_bruno.pdf (6 pages, 112049 bytes).
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cv_bruno.pdf (8 pages, 135527 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 37 named destinations out of 1000 (max. 500000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
