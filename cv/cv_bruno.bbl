@@ -514,6 +514,42 @@
       \field{year}{2021}
       \keyw{conference}
     \endentry
+    \entry{2021ICRA_baioumy}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=11f2c7aa1c59b3c52be07406dcb9d930}{%
+           family={Baioumy},
+           familyi={B\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bf30daafe5dc3e539ddb8c23c9b4601c}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{845feb6053f78496df682006e23c58bc}
+      \strng{fullhash}{8ae46d1889b84b31dc8faeb343398d41}
+      \strng{authornamehash}{845feb6053f78496df682006e23c58bc}
+      \strng{authorfullhash}{8ae46d1889b84b31dc8faeb343398d41}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2021 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Active Inference for Integrated State-Estimation, Control, and Learning}
+      \field{year}{2021}
+      \keyw{conference}
+    \endentry
     \entry{2021AAAI_rigter}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=f2d5f1199270933640b20bb23f0274bb}{%
@@ -841,8 +877,8 @@
       \strng{fullhash}{7c622709a82c044ab57cd371c19dc891}
       \strng{authornamehash}{44294df4ee809a5095353c33fd4b8bbd}
       \strng{authorfullhash}{7c622709a82c044ab57cd371c19dc891}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2019 European Conference on Mobile Robots (ECMR)}
@@ -1191,8 +1227,8 @@
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of Robotics: Science and Systems VII (RSS)}
@@ -1537,8 +1573,8 @@
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{31st Workshop of the UK Planning \& Scheduling Special Interest Group (PlanSIG)}

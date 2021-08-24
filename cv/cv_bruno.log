@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.4)  29 JUL 2021 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.4)  24 AUG 2021 10:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,10 +547,10 @@ Package logreq Info: Writing requests to 'cv_bruno.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 11402 strings out of 492995
- 194484 string characters out of 6132705
- 643235 words of memory out of 5000000
- 14807 multiletter control sequences out of 15000+600000
+ 11405 strings out of 492995
+ 194591 string characters out of 6132705
+ 643249 words of memory out of 5000000
+ 14809 multiletter control sequences out of 15000+600000
  8764 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,4n,45p,913b,1323s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -562,10 +562,10 @@ usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/loc
 al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_bruno.pdf (8 pages, 135527 bytes).
+Output written on cv_bruno.pdf (8 pages, 135705 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
