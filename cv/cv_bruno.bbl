@@ -437,6 +437,119 @@
       \field{year}{2008}
       \keyw{journal}
     \endentry
+    \entry{2022AAMAS_gautier}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=1d44621a65d278bc0904b83748302e4d}{%
+           family={Gautier},
+           familyi={G\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99cd75f27f1e691bcbc2831b57cff6ab}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1dbead6bb535576afc14adfe5a5c42bb}{%
+           family={Wooldridge},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d89db7857486787305a30109a2fef2f}
+      \strng{fullhash}{eab64c855983cf58def0fae477c95b58}
+      \strng{authornamehash}{5d89db7857486787305a30109a2fef2f}
+      \strng{authorfullhash}{eab64c855983cf58def0fae477c95b58}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
+      \field{title}{Negotiated Path Planning for Non-Cooperative Multi-Robot Systems}
+      \field{year}{2022}
+      \keyw{conference}
+    \endentry
+    \entry{2022AAMAS_street}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=97664adc8adc876d8cd902d8da2d0b9a}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8992f43f6e1bf60231b010729dc4bdd6}{%
+           family={Staniaszek},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=20d16aa048c6929f238a7c0ccc26cfd4}{%
+           family={M\"{u}hlig},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{76218deb144453f3a2a1b06d587c0fc4}
+      \strng{fullhash}{614cdedbf7a10d7dfe570abd099e334f}
+      \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
+      \strng{authorfullhash}{614cdedbf7a10d7dfe570abd099e334f}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
+      \field{title}{Context-Aware Modelling for Multi-Robot Systems Under Uncertainty}
+      \field{year}{2022}
+      \keyw{conference}
+    \endentry
+    \entry{2021NEURIPS_rigter}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f2d5f1199270933640b20bb23f0274bb}{%
+           family={Rigter},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of Advances in Neural Information Processing Systems 34 (NeurIPS)}
+      \field{title}{Risk-Averse Bayes-Adaptive Reinforcement Learning}
+      \field{year}{2021}
+      \keyw{conference}
+    \endentry
     \entry{2021CDC_barbosa}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=0b3bdbaf698ac55283c1b5c59e652c55}{%
@@ -469,8 +582,8 @@
       \strng{fullhash}{1d8d26ee542c2ffda74d4f1a2245fcb0}
       \strng{authornamehash}{70700a21d161f4a14ede4dab440ea29b}
       \strng{authorfullhash}{1d8d26ee542c2ffda74d4f1a2245fcb0}
-      \field{sortinit}{9}
-      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2021 IEEE Conference on Decision and Control (CDC)}
@@ -757,8 +870,8 @@
       \strng{fullhash}{7dcbb15776afba709cfd66dc9cc30dab}
       \strng{authornamehash}{7dcbb15776afba709cfd66dc9cc30dab}
       \strng{authorfullhash}{7dcbb15776afba709cfd66dc9cc30dab}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)}
@@ -796,8 +909,8 @@
       \strng{fullhash}{0be27a225aa89c4db927fbde4c3b0455}
       \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{authorfullhash}{0be27a225aa89c4db927fbde4c3b0455}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
@@ -835,8 +948,8 @@
       \strng{fullhash}{0253b3ff0e251d4a3003174111cc6d34}
       \strng{authornamehash}{8825e14dee21f4bff79407937057006a}
       \strng{authorfullhash}{0253b3ff0e251d4a3003174111cc6d34}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
@@ -1135,8 +1248,8 @@
       \strng{fullhash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authornamehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authorfullhash}{ab5ada1ad662fb0e63de2f12eb748353}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 7th European Conference on Mobile Robotics (ECMR)}
@@ -1169,8 +1282,8 @@
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
@@ -1198,8 +1311,8 @@
       \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
       \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
@@ -1471,8 +1584,8 @@
       \strng{fullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
       \strng{authornamehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{authorfullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{ICRA 2019 Workshop on Resilient Robot Teams: Composing, Acting, and Learning}
@@ -1505,8 +1618,8 @@
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{FLoC 2018 Workshop on the Verification and Validation of Autonomous Systems (VaVAS)}
@@ -1539,8 +1652,8 @@
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{AAAI Fall Symposium on Sequential Decision Making for Intelligent Agents (SDMIA)}
