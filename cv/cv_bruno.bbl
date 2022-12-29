@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.8 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,58 @@
 
 
 \refsection{0}
-  \sortlist[entry]{none/global/}
-    \entry{2021TRO_street}{article}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{2022AIC_lacerda}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1d44621a65d278bc0904b83748302e4d}{%
+           family={Gautier},
+           familyi={G\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d701115d63417ac649b5409e6196b0c5}{%
+           family={Rutherford},
+           familyi={R\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99cd75f27f1e691bcbc2831b57cff6ab}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=97664adc8adc876d8cd902d8da2d0b9a}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{6945954a114e79ee4d7408398431c44d}
+      \strng{fullhash}{97c1b728003158196f880a18726705bd}
+      \strng{bibnamehash}{97c1b728003158196f880a18726705bd}
+      \strng{authorbibnamehash}{97c1b728003158196f880a18726705bd}
+      \strng{authornamehash}{6945954a114e79ee4d7408398431c44d}
+      \strng{authorfullhash}{97c1b728003158196f880a18726705bd}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AI Communications}
+      \field{title}{Decision-Making under Uncertainty for Multi-Robot Systems}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{journal}
+    \endentry
+    \entry{2022TRO_street}{article}{}
       \name{author}{5}{}{%
         {{hash=97664adc8adc876d8cd902d8da2d0b9a}{%
            family={Street},
@@ -27,12 +77,12 @@
            given={Charlie},
            giveni={C\bibinitperiod}}}%
         {{hash=97c10ab5d2edaa203a6b876bc52e3fd6}{%
-           family={P\"{u}tz},
+           family={Pütz},
            familyi={P\bibinitperiod},
            given={Sebastian},
            giveni={S\bibinitperiod}}}%
         {{hash=20d16aa048c6929f238a7c0ccc26cfd4}{%
-           family={M\"{u}hlig},
+           family={Mühlig},
            familyi={M\bibinitperiod},
            given={Manuel},
            giveni={M\bibinitperiod}}}%
@@ -49,15 +99,19 @@
       }
       \strng{namehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{fullhash}{2dcc7acc34427da0b8536b7e98f50b12}
+      \strng{bibnamehash}{2dcc7acc34427da0b8536b7e98f50b12}
+      \strng{authorbibnamehash}{2dcc7acc34427da0b8536b7e98f50b12}
       \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{authorfullhash}{2dcc7acc34427da0b8536b7e98f50b12}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Robotics}
       \field{title}{Congestion-Aware Policy Synthesis for Multirobot Systems}
-      \field{year}{2021}
+      \field{year}{2022}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{2020RAS_tomy}{article}{}
@@ -77,24 +131,28 @@
            familyi={H\bibinitperiod},
            given={Nick},
            giveni={N\bibinitperiod}}}%
-        {{hash=be36fb93f4ce07fa8081c35c6a93b1f7}{%
+        {{hash=e4552645d38b30c3df13825bc7ec9470}{%
            family={Wyatt},
            familyi={W\bibinitperiod},
            given={Jeremy\bibnamedelima L},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{44294df4ee809a5095353c33fd4b8bbd}
-      \strng{fullhash}{a41e2db4da065dcfcdc6823af1f7388b}
+      \strng{fullhash}{4bf80712814233eb3d56b57d2b1c596b}
+      \strng{bibnamehash}{4bf80712814233eb3d56b57d2b1c596b}
+      \strng{authorbibnamehash}{4bf80712814233eb3d56b57d2b1c596b}
       \strng{authornamehash}{44294df4ee809a5095353c33fd4b8bbd}
-      \strng{authorfullhash}{a41e2db4da065dcfcdc6823af1f7388b}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \strng{authorfullhash}{4bf80712814233eb3d56b57d2b1c596b}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Robotics and Autonomous Systems}
-      \field{title}{Battery charge scheduling in long-life autonomous mobile robots via multi-objective decision making under uncertainty}
+      \field{title}{Battery Charge Scheduling in Long-Life Autonomous Mobile Robots via Multi-Objective Decision Making under Uncertainty}
       \field{volume}{133}
       \field{year}{2020}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{2020RAL_rigter}{article}{}
@@ -117,10 +175,13 @@
       }
       \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{bibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorbibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Robotics and Automation Letters (RA-L)}
@@ -128,6 +189,7 @@
       \field{title}{A Framework for Learning from Demonstration with Minimal Human Effort}
       \field{volume}{5}
       \field{year}{2020}
+      \true{nocite}
       \verb{file}
       \verb http://www.robots.ox.ac.uk/~mobile/Papers/2020ICRA_rigter.pdf
       \endverb
@@ -140,24 +202,28 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
            giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Robotics and Autonomous Systems}
-      \field{title}{{P}etri net based multi-robot task coordination from temporal logic specifications}
+      \field{title}{{P}etri Net Based Multi-Robot Task Coordination from Temporal Logic Specifications}
       \field{volume}{122}
       \field{year}{2019}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{lacerda_ijrr19}{article}{}
@@ -185,10 +251,13 @@
       }
       \strng{namehash}{6945954a114e79ee4d7408398431c44d}
       \strng{fullhash}{9827a0603ddf20c2afa918de9a01b079}
+      \strng{bibnamehash}{9827a0603ddf20c2afa918de9a01b079}
+      \strng{authorbibnamehash}{9827a0603ddf20c2afa918de9a01b079}
       \strng{authornamehash}{6945954a114e79ee4d7408398431c44d}
       \strng{authorfullhash}{9827a0603ddf20c2afa918de9a01b079}
-      \field{sortinit}{5}
-      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Robotics Research (IJRR)}
@@ -196,6 +265,7 @@
       \field{title}{Probabilistic Planning with Formal Performance Guarantees for Mobile Service Robots}
       \field{volume}{38}
       \field{year}{2019}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{hawes_ram17}{article}{}
@@ -325,12 +395,12 @@
            familyi={G\bibinitperiod},
            given={Yiannis},
            giveni={Y\bibinitperiod}}}%
-        {{hash=9a8646825c85c55efa8551e30818b085}{%
+        {{hash=030b2dcc48cccddd2f766ce213a1f5f8}{%
            family={Hogg},
            familyi={H\bibinitperiod},
            given={David\bibnamedelima C.},
            giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=6dd6b7a2c819af2433c95dab3e7b12ed}{%
+        {{hash=8c6c03ab4edea443dde5127cec2e7aac}{%
            family={Cohn},
            familyi={C\bibinitperiod},
            given={Anthony\bibnamedelima G.},
@@ -340,7 +410,7 @@
            familyi={D\bibinitperiod},
            given={Christian},
            giveni={C\bibinitperiod}}}%
-        {{hash=c4c47469ef00dda36a03817cdb5ccd5e}{%
+        {{hash=0390ef8e98c29fc1c01552cb83d04802}{%
            family={Fentanes},
            familyi={F\bibinitperiod},
            given={Jaime\bibnamedelima P.},
@@ -350,7 +420,7 @@
            familyi={K\bibinitperiod},
            given={Tomas},
            giveni={T\bibinitperiod}}}%
-        {{hash=26d02fc4b496f7e3292666a6cfa05a68}{%
+        {{hash=42a98aca4d5ad78a41d4b3480f043624}{%
            family={Santos},
            familyi={S\bibinitperiod},
            given={Joao\bibnamedelima M.},
@@ -367,11 +437,13 @@
            giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{9a97fba32fc773dafe25da2cf63a1d23}
-      \strng{fullhash}{0f43c04a29a714d728cb52226e6c2811}
+      \strng{fullhash}{83f46f7e75bf285e7c9af5b2c0038c85}
+      \strng{bibnamehash}{83f46f7e75bf285e7c9af5b2c0038c85}
+      \strng{authorbibnamehash}{83f46f7e75bf285e7c9af5b2c0038c85}
       \strng{authornamehash}{9a97fba32fc773dafe25da2cf63a1d23}
-      \strng{authorfullhash}{0f43c04a29a714d728cb52226e6c2811}
-      \field{sortinit}{6}
-      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \strng{authorfullhash}{83f46f7e75bf285e7c9af5b2c0038c85}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Robotics Automation Magazine}
@@ -379,6 +451,7 @@
       \field{title}{The {STRANDS} Project: Long-Term Autonomy in Everyday Environments}
       \field{volume}{24}
       \field{year}{2017}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{lacerda_ieeetac14}{article}{}
@@ -388,18 +461,21 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
            giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{7}
-      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Automatic Control}
@@ -407,6 +483,7 @@
       \field{title}{On the Notion of Uncontrollable Marking in Supervisory Control of {P}etri Nets}
       \field{volume}{59}
       \field{year}{2014}
+      \true{nocite}
       \keyw{journal}
     \endentry
     \entry{lacerda_jopha08}{article}{}
@@ -416,18 +493,21 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
            giveni={P\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{8}
-      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Physical Agents}
@@ -435,7 +515,299 @@
       \field{title}{Linear-Time Temporal Logic Control of Discrete Event Models of Cooperative Robots}
       \field{volume}{2}
       \field{year}{2008}
+      \true{nocite}
       \keyw{journal}
+    \endentry
+    \entry{2023AAAI_costen}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e8daf49ba4d9bf9525a0a24b1da3df5f}{%
+           family={Costen},
+           familyi={C\bibinitperiod},
+           given={Clarissa},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f2d5f1199270933640b20bb23f0274bb}{%
+           family={Rigter},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{50e4be36fa956b6702399d67b411b858}
+      \strng{fullhash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{bibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{authorbibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{authornamehash}{50e4be36fa956b6702399d67b411b858}
+      \strng{authorfullhash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)}
+      \field{title}{Planning with Hidden Parameter Polynomial {MDP}s}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2023AAAI_gautier}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=1d44621a65d278bc0904b83748302e4d}{%
+           family={Gautier},
+           familyi={G\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1dbead6bb535576afc14adfe5a5c42bb}{%
+           family={Wooldridge},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d89db7857486787305a30109a2fef2f}
+      \strng{fullhash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \strng{bibnamehash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \strng{authorbibnamehash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \strng{authornamehash}{5d89db7857486787305a30109a2fef2f}
+      \strng{authorfullhash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI)}
+      \field{title}{Multi-Unit Auctions for Allocating Chance-Constrained Resources}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2022CORL_budd}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=68ff5163009b763d1d03229256aedb25}{%
+           family={Budd},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bf30daafe5dc3e539ddb8c23c9b4601c}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{fullhash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \strng{bibnamehash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \strng{authorbibnamehash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \strng{authornamehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{authorfullhash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2022 Conference on Robot Learning (CoRL)}
+      \field{title}{Bayesian Reinforcement Learning for Single-Episode Missions in Partially Unknown Environments}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2022NEURIPS_rigter}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f2d5f1199270933640b20bb23f0274bb}{%
+           family={Rigter},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{bibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorbibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS)}
+      \field{title}{Rambo-{RL}: {R}obust Adversarial Model-Based Offline Reinforcement Learning}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2022IROS_budd}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=68ff5163009b763d1d03229256aedb25}{%
+           family={Budd},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b88a4c481fe93755159e66d478c77934}{%
+           family={Salavasidis},
+           familyi={S\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=057fa9e2807e9dfdc8b2c31c96990f7d}{%
+           family={Kamarudzaman},
+           familyi={K\bibinitperiod},
+           given={Izzat},
+           giveni={I\bibinitperiod}}}%
+        {{hash=936628a9e93e1c3fe390ca7db2bbf9c7}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Catherine\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfa50602401476f8951ebb0d27c264de}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bf30daafe5dc3e539ddb8c23c9b4601c}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{fullhash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{bibnamehash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{authorbibnamehash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{authornamehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{authorfullhash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
+      \field{title}{Probabilistic Planning for {AUV} Data Harvesting from Smart Underwater Sensor Networks}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2022IJCAI_costen}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e8daf49ba4d9bf9525a0a24b1da3df5f}{%
+           family={Costen},
+           familyi={C\bibinitperiod},
+           given={Clarissa},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f2d5f1199270933640b20bb23f0274bb}{%
+           family={Rigter},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{50e4be36fa956b6702399d67b411b858}
+      \strng{fullhash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{bibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{authorbibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{authornamehash}{50e4be36fa956b6702399d67b411b858}
+      \strng{authorfullhash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI)}
+      \field{title}{Shared Autonomy Systems with Stochastic Operator Models}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{conference}
+    \endentry
+    \entry{2022ICAPS_rigter}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f2d5f1199270933640b20bb23f0274bb}{%
+           family={Rigter},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{bibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorbibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 32nd International Conference on Automated Planning and Scheduling (ICAPS)}
+      \field{note}{\textbf{Best Paper Award Runner-Up}}
+      \field{title}{Planning for Risk-Aversion and Expected Value in {MDP}s}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{conference}
     \endentry
     \entry{2022AAMAS_gautier}{inproceedings}{}
       \name{author}{5}{}{%
@@ -467,15 +839,19 @@
       }
       \strng{namehash}{5d89db7857486787305a30109a2fef2f}
       \strng{fullhash}{eab64c855983cf58def0fae477c95b58}
+      \strng{bibnamehash}{eab64c855983cf58def0fae477c95b58}
+      \strng{authorbibnamehash}{eab64c855983cf58def0fae477c95b58}
       \strng{authornamehash}{5d89db7857486787305a30109a2fef2f}
       \strng{authorfullhash}{eab64c855983cf58def0fae477c95b58}
-      \field{sortinit}{9}
-      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
       \field{title}{Negotiated Path Planning for Non-Cooperative Multi-Robot Systems}
       \field{year}{2022}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2022AAMAS_street}{inproceedings}{}
@@ -496,7 +872,7 @@
            given={Michal},
            giveni={M\bibinitperiod}}}%
         {{hash=20d16aa048c6929f238a7c0ccc26cfd4}{%
-           family={M\"{u}hlig},
+           family={Mühlig},
            familyi={M\bibinitperiod},
            given={Manuel},
            giveni={M\bibinitperiod}}}%
@@ -508,15 +884,19 @@
       }
       \strng{namehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{fullhash}{614cdedbf7a10d7dfe570abd099e334f}
+      \strng{bibnamehash}{614cdedbf7a10d7dfe570abd099e334f}
+      \strng{authorbibnamehash}{614cdedbf7a10d7dfe570abd099e334f}
       \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{authorfullhash}{614cdedbf7a10d7dfe570abd099e334f}
+      \field{extraname}{2}
       \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
       \field{title}{Context-Aware Modelling for Multi-Robot Systems Under Uncertainty}
       \field{year}{2022}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2021NEURIPS_rigter}{inproceedings}{}
@@ -539,20 +919,24 @@
       }
       \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{bibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorbibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \field{extraname}{4}
       \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of Advances in Neural Information Processing Systems 34 (NeurIPS)}
+      \field{booktitle}{Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS)}
       \field{title}{Risk-Averse Bayes-Adaptive Reinforcement Learning}
       \field{year}{2021}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2021CDC_barbosa}{inproceedings}{}
       \name{author}{5}{}{%
-        {{hash=0b3bdbaf698ac55283c1b5c59e652c55}{%
+        {{hash=9692ca072969d9ee7c8c0b314ddd3a5e}{%
            family={Barbosa},
            familyi={B\bibinitperiod},
            given={Fernando\bibnamedelima S.},
@@ -578,17 +962,20 @@
            given={Nick},
            giveni={N\bibinitperiod}}}%
       }
-      \strng{namehash}{70700a21d161f4a14ede4dab440ea29b}
-      \strng{fullhash}{1d8d26ee542c2ffda74d4f1a2245fcb0}
-      \strng{authornamehash}{70700a21d161f4a14ede4dab440ea29b}
-      \strng{authorfullhash}{1d8d26ee542c2ffda74d4f1a2245fcb0}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \strng{namehash}{2bdbd1efbd808827b4adc71d80235cad}
+      \strng{fullhash}{cfb3ec7be47282d80c70474932a10d04}
+      \strng{bibnamehash}{cfb3ec7be47282d80c70474932a10d04}
+      \strng{authorbibnamehash}{cfb3ec7be47282d80c70474932a10d04}
+      \strng{authornamehash}{2bdbd1efbd808827b4adc71d80235cad}
+      \strng{authorfullhash}{cfb3ec7be47282d80c70474932a10d04}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2021 IEEE Conference on Decision and Control (CDC)}
       \field{title}{Risk-Aware Motion Planning in Partially Known Environments}
       \field{year}{2021}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2021ECMR_rutherford}{inproceedings}{}
@@ -616,15 +1003,18 @@
       }
       \strng{namehash}{717b5956c41eab3960ae7665ee59cedd}
       \strng{fullhash}{26188a9227504591e930daad6066d364}
+      \strng{bibnamehash}{26188a9227504591e930daad6066d364}
+      \strng{authorbibnamehash}{26188a9227504591e930daad6066d364}
       \strng{authornamehash}{717b5956c41eab3960ae7665ee59cedd}
       \strng{authorfullhash}{26188a9227504591e930daad6066d364}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2021 European Conference on Mobile Robots (ECMR)}
       \field{title}{Motion Planning in Uncertain Environments with Rapidly-Exploring Random {M}arkov Decision Processes}
       \field{year}{2021}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2021ICRA_baioumy}{inproceedings}{}
@@ -652,15 +1042,19 @@
       }
       \strng{namehash}{845feb6053f78496df682006e23c58bc}
       \strng{fullhash}{8ae46d1889b84b31dc8faeb343398d41}
+      \strng{bibnamehash}{8ae46d1889b84b31dc8faeb343398d41}
+      \strng{authorbibnamehash}{8ae46d1889b84b31dc8faeb343398d41}
       \strng{authornamehash}{845feb6053f78496df682006e23c58bc}
       \strng{authorfullhash}{8ae46d1889b84b31dc8faeb343398d41}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2021 IEEE International Conference on Robotics and Automation (ICRA)}
       \field{title}{Active Inference for Integrated State-Estimation, Control, and Learning}
       \field{year}{2021}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2021AAAI_rigter}{inproceedings}{}
@@ -683,15 +1077,19 @@
       }
       \strng{namehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{fullhash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{bibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
+      \strng{authorbibnamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authornamehash}{41e71ee6e91f04e24ebb4479f18346ce}
       \strng{authorfullhash}{41e71ee6e91f04e24ebb4479f18346ce}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)}
       \field{title}{Minimax Regret Optimisation for Robust Planning in Uncertain {M}arkov Decision Processes}
       \field{year}{2021}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2020CORL_duckworth}{inproceedings}{}
@@ -714,15 +1112,18 @@
       }
       \strng{namehash}{6fa12f898de45fcde84e06f00daec5cf}
       \strng{fullhash}{6fa12f898de45fcde84e06f00daec5cf}
+      \strng{bibnamehash}{6fa12f898de45fcde84e06f00daec5cf}
+      \strng{authorbibnamehash}{6fa12f898de45fcde84e06f00daec5cf}
       \strng{authornamehash}{6fa12f898de45fcde84e06f00daec5cf}
       \strng{authorfullhash}{6fa12f898de45fcde84e06f00daec5cf}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2020 Conference on Robot Learning (CoRL)}
       \field{title}{Time-Bounded Mission Planning in Time-Varying Domains with Semi-{MDP}s and {G}aussian Processes}
       \field{year}{2020}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2020IROS_budd}{inproceedings}{}
@@ -760,15 +1161,19 @@
       }
       \strng{namehash}{afe1910fd11b61a147a50cf3e8a854c2}
       \strng{fullhash}{75426082c2ce0ff9aa1743cc72dd95c7}
+      \strng{bibnamehash}{75426082c2ce0ff9aa1743cc72dd95c7}
+      \strng{authorbibnamehash}{75426082c2ce0ff9aa1743cc72dd95c7}
       \strng{authornamehash}{afe1910fd11b61a147a50cf3e8a854c2}
       \strng{authorfullhash}{75426082c2ce0ff9aa1743cc72dd95c7}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
       \field{title}{Markov decision processes with unknown state feature values for safe exploration using Gaussian processes}
       \field{year}{2020}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2020IROS_azevedo}{inproceedings}{}
@@ -796,15 +1201,19 @@
       }
       \strng{namehash}{8825e14dee21f4bff79407937057006a}
       \strng{fullhash}{0253b3ff0e251d4a3003174111cc6d34}
+      \strng{bibnamehash}{0253b3ff0e251d4a3003174111cc6d34}
+      \strng{authorbibnamehash}{0253b3ff0e251d4a3003174111cc6d34}
       \strng{authornamehash}{8825e14dee21f4bff79407937057006a}
       \strng{authorfullhash}{0253b3ff0e251d4a3003174111cc6d34}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
       \field{title}{Long-Run Multi-Robot Planning under Uncertain Action Durations for Persistent Tasks}
       \field{year}{2020}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2020UKRAS_baioumy}{inproceedings}{}
@@ -837,15 +1246,19 @@
       }
       \strng{namehash}{845feb6053f78496df682006e23c58bc}
       \strng{fullhash}{9bbd56442062f199877cb550ac4947b0}
+      \strng{bibnamehash}{9bbd56442062f199877cb550ac4947b0}
+      \strng{authorbibnamehash}{9bbd56442062f199877cb550ac4947b0}
       \strng{authornamehash}{845feb6053f78496df682006e23c58bc}
       \strng{authorfullhash}{9bbd56442062f199877cb550ac4947b0}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 3rd UK-RAS Conference for PhD Students \& Early-Career Researchers (UK-RAS)}
       \field{title}{Adaptive Manipulator Control using Active Inference with Precision Learning}
       \field{year}{2020}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{2020ICAPS_painter}{inproceedings}{}
@@ -868,15 +1281,18 @@
       }
       \strng{namehash}{7dcbb15776afba709cfd66dc9cc30dab}
       \strng{fullhash}{7dcbb15776afba709cfd66dc9cc30dab}
+      \strng{bibnamehash}{7dcbb15776afba709cfd66dc9cc30dab}
+      \strng{authorbibnamehash}{7dcbb15776afba709cfd66dc9cc30dab}
       \strng{authornamehash}{7dcbb15776afba709cfd66dc9cc30dab}
       \strng{authorfullhash}{7dcbb15776afba709cfd66dc9cc30dab}
       \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)}
       \field{title}{Convex Hull Monte-Carlo Tree Search}
       \field{year}{2020}
+      \true{nocite}
       \verb{file}
       \verb https://arxiv.org/abs/2003.04445
       \endverb
@@ -895,7 +1311,7 @@
            given={Bruno},
            giveni={B\bibinitperiod}}}%
         {{hash=20d16aa048c6929f238a7c0ccc26cfd4}{%
-           family={M\"{u}hlig},
+           family={Mühlig},
            familyi={M\bibinitperiod},
            given={Manuel},
            giveni={M\bibinitperiod}}}%
@@ -907,15 +1323,19 @@
       }
       \strng{namehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{fullhash}{0be27a225aa89c4db927fbde4c3b0455}
+      \strng{bibnamehash}{0be27a225aa89c4db927fbde4c3b0455}
+      \strng{authorbibnamehash}{0be27a225aa89c4db927fbde4c3b0455}
       \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
       \strng{authorfullhash}{0be27a225aa89c4db927fbde4c3b0455}
+      \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
       \field{title}{Multi-Robot Planning Under Uncertainty with Congestion-Aware Models}
       \field{year}{2020}
+      \true{nocite}
       \verb{file}
       \verb http://www.robots.ox.ac.uk/~mobile/Papers/2020AAMAS_street.pdf
       \endverb
@@ -946,15 +1366,19 @@
       }
       \strng{namehash}{8825e14dee21f4bff79407937057006a}
       \strng{fullhash}{0253b3ff0e251d4a3003174111cc6d34}
+      \strng{bibnamehash}{0253b3ff0e251d4a3003174111cc6d34}
+      \strng{authorbibnamehash}{0253b3ff0e251d4a3003174111cc6d34}
       \strng{authornamehash}{8825e14dee21f4bff79407937057006a}
       \strng{authorfullhash}{0253b3ff0e251d4a3003174111cc6d34}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)}
       \field{title}{Long-Run Multi-Robot Planning With Uncertain Task Durations}
       \field{year}{2020}
+      \true{nocite}
       \verb{file}
       \verb http://www.robots.ox.ac.uk/~mobile/Papers/lra-ExtAbs-aamas2020.pdf
       \endverb
@@ -988,15 +1412,19 @@
       }
       \strng{namehash}{44294df4ee809a5095353c33fd4b8bbd}
       \strng{fullhash}{7c622709a82c044ab57cd371c19dc891}
+      \strng{bibnamehash}{7c622709a82c044ab57cd371c19dc891}
+      \strng{authorbibnamehash}{7c622709a82c044ab57cd371c19dc891}
       \strng{authornamehash}{44294df4ee809a5095353c33fd4b8bbd}
       \strng{authorfullhash}{7c622709a82c044ab57cd371c19dc891}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2019 European Conference on Mobile Robots (ECMR)}
       \field{title}{Battery Charge Scheduling in Long-Life Autonomous Mobile Robots}
       \field{year}{2019}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{mansouri_ijcai19}{inproceedings}{}
@@ -1027,15 +1455,19 @@
       }
       \strng{namehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{fullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
+      \strng{bibnamehash}{7c9cd2e4e54e27c4969cea3690a633c6}
+      \strng{authorbibnamehash}{7c9cd2e4e54e27c4969cea3690a633c6}
       \strng{authornamehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{authorfullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)}
       \field{title}{Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints}
       \field{year}{2019}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{faruq_iros18}{inproceedings}{}
@@ -1066,15 +1498,18 @@
       }
       \strng{namehash}{9c3ef1aae5699f41db45eae88c97f37f}
       \strng{fullhash}{fe9972730cd09194b861d5eb558f1b4e}
+      \strng{bibnamehash}{fe9972730cd09194b861d5eb558f1b4e}
+      \strng{authorbibnamehash}{fe9972730cd09194b861d5eb558f1b4e}
       \strng{authornamehash}{9c3ef1aae5699f41db45eae88c97f37f}
       \strng{authorfullhash}{fe9972730cd09194b861d5eb558f1b4e}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
       \field{title}{Simultaneous Task Allocation and Planning Under Uncertainty}
       \field{year}{2018}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_icaps17}{inproceedings}{}
@@ -1100,21 +1535,25 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 27th International Conf on Automated Planning and Scheduling (ICAPS)}
       \field{title}{Multi-Objective Policy Generation for Mobile Robots Under Probabilistic Time-Bounded Guarantees}
       \field{year}{2017}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{mudrova_ecai16}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=33ec25c23d7c4aec9c1723e78fb4d8a4}{%
-           family={Mudrov\'{a}},
+           family={Mudrová},
            familyi={M\bibinitperiod},
            given={Lenka},
            giveni={L\bibinitperiod}}}%
@@ -1134,15 +1573,19 @@
       }
       \strng{namehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{fullhash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{bibnamehash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{authorbibnamehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authornamehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authorfullhash}{ab5ada1ad662fb0e63de2f12eb748353}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI)}
       \field{title}{Partial Order Temporal Plan Merging for Mobile Robot Tasks}
       \field{year}{2016}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_ijcai15}{inproceedings}{}
@@ -1168,20 +1611,24 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI)}
       \field{title}{Optimal Policy Generation for Partially Satisfiable Co-Safe {LTL} Specifications}
       \field{year}{2015}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{fentanes_icra15}{inproceedings}{}
       \name{author}{5}{}{%
-        {{hash=62bc57a9a77ad7c8702bea0c7a4ea9e6}{%
+        {{hash=c31b8821f4c5c23fbf9da34b1cbc727b}{%
            family={Pulido\bibnamedelima Fentanes},
            familyi={P\bibinitperiod\bibinitdelim F\bibinitperiod},
            given={Jaime},
@@ -1192,9 +1639,9 @@
            given={Bruno},
            giveni={B\bibinitperiod}}}%
         {{hash=9a5b2223e394a820b0995dad94395546}{%
-           family={Krajn\'{\i}k},
+           family={Krajník},
            familyi={K\bibinitperiod},
-           given={Tom\'{a}\v{s}},
+           given={Tomáš},
            giveni={T\bibinitperiod}}}%
         {{hash=ae82b1782be057db351b013d9858dade}{%
            family={Hawes},
@@ -1210,23 +1657,26 @@
       \list{location}{1}{%
         {Seattle, WA, USA}%
       }
-      \strng{namehash}{4004f1151d271cdbcd4276b2a233a2c9}
-      \strng{fullhash}{73981e6c10b67c858f07e6007af869bc}
-      \strng{authornamehash}{4004f1151d271cdbcd4276b2a233a2c9}
-      \strng{authorfullhash}{73981e6c10b67c858f07e6007af869bc}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \strng{namehash}{99c180b7526b1b3bc57a59b51e94fb96}
+      \strng{fullhash}{d984f6ef2f15f793e8d3ef869f66fd66}
+      \strng{bibnamehash}{d984f6ef2f15f793e8d3ef869f66fd66}
+      \strng{authorbibnamehash}{d984f6ef2f15f793e8d3ef869f66fd66}
+      \strng{authornamehash}{99c180b7526b1b3bc57a59b51e94fb96}
+      \strng{authorfullhash}{d984f6ef2f15f793e8d3ef869f66fd66}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2015 IEEE International Conference on Robotics and Automation (ICRA)}
       \field{title}{Now or later? {P}redicting and maximising success of navigation actions from long-term experience}
       \field{year}{2015}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{mudrova_ecmr15}{inproceedings}{}
       \name{author}{3}{}{%
         {{hash=33ec25c23d7c4aec9c1723e78fb4d8a4}{%
-           family={Mudrov\'{a}},
+           family={Mudrová},
            familyi={M\bibinitperiod},
            given={Lenka},
            giveni={L\bibinitperiod}}}%
@@ -1246,15 +1696,19 @@
       }
       \strng{namehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{fullhash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{bibnamehash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \strng{authorbibnamehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authornamehash}{ab5ada1ad662fb0e63de2f12eb748353}
       \strng{authorfullhash}{ab5ada1ad662fb0e63de2f12eb748353}
+      \field{extraname}{2}
       \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 7th European Conference on Mobile Robotics (ECMR)}
       \field{title}{An Integrated Control Framework for Long-Term Autonomy in Mobile Service Robots}
       \field{year}{2015}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_iros14}{inproceedings}{}
@@ -1280,15 +1734,19 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \field{extraname}{3}
       \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
       \field{title}{Optimal and dynamic planning for {M}arkov decision processes with co-safe {LTL} specifications}
       \field{year}{2014}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_iros11}{inproceedings}{}
@@ -1298,7 +1756,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1307,17 +1765,21 @@
       \list{location}{1}{%
         {San Francisco, CA, USA}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
       \field{title}{{LTL}-Based Decentralized Supervisory Control of Multi-Robot Tasks Modelled as {P}etri Nets}
       \field{year}{2011}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_rss11}{inproceedings}{}
@@ -1327,7 +1789,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1336,17 +1798,21 @@
       \list{location}{1}{%
         {Los Angeles, CA, USA}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of Robotics: Science and Systems VII (RSS)}
       \field{title}{Designing {P}etri Net Supervisors from {LTL} Specifications}
       \field{year}{2011}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_aamas11}{inproceedings}{}
@@ -1356,7 +1822,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1365,17 +1831,21 @@
       \list{location}{1}{%
         {Taipei, Taiwan}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 10th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)}
       \field{title}{Designing {P}etri Net Supervisors for Multi-Agent Systems from {LTL} Specifications (Extended Abstract)}
       \field{year}{2011}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_robotica11}{inproceedings}{}
@@ -1385,7 +1855,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1395,7 +1865,7 @@
            familyi={G\bibinitperiod},
            given={Javi},
            giveni={J\bibinitperiod}}}%
-        {{hash=1e3133426335486235440b89ac746d0b}{%
+        {{hash=0ef8718496a8f45ef2eb672ad4eeb483}{%
            family={Salichs},
            familyi={S\bibinitperiod},
            given={Miguel\bibnamedelima A.},
@@ -1405,16 +1875,20 @@
         {Lisbon, Portugal}%
       }
       \strng{namehash}{6945954a114e79ee4d7408398431c44d}
-      \strng{fullhash}{4c3fc5ad4df37e8d51e749ddff7d1125}
+      \strng{fullhash}{06dfab5a740a586b5ff0092ced2aa6f4}
+      \strng{bibnamehash}{06dfab5a740a586b5ff0092ced2aa6f4}
+      \strng{authorbibnamehash}{06dfab5a740a586b5ff0092ced2aa6f4}
       \strng{authornamehash}{6945954a114e79ee4d7408398431c44d}
-      \strng{authorfullhash}{4c3fc5ad4df37e8d51e749ddff7d1125}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \strng{authorfullhash}{06dfab5a740a586b5ff0092ced2aa6f4}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 11th International Conference on Mobile Robots and Competitions}
       \field{title}{{P}etri Net Based Supervisory Control of a Social Robot with {LTL} Specifications}
       \field{year}{2011}
+      \true{nocite}
       \keyw{conference}
     \endentry
     \entry{lacerda_cnrs11}{inproceedings}{}
@@ -1424,7 +1898,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1433,18 +1907,161 @@
       \list{location}{1}{%
         {Coimbra, Portugal}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 1st Portuguese Conference on Wireless Sensor Networks (CNRS)}
       \field{title}{Petri Nets as an Analysis Tool For Data Flow in Wireless Sensor Networks}
       \field{year}{2011}
+      \true{nocite}
       \keyw{conference}
+    \endentry
+    \entry{2022PLANROB_brudermuller}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c6dfb80c534f5a685628aa7109b29e0d}{%
+           family={Brudermüller},
+           familyi={B\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ccd855fc0eb085d385dbf8c09cc70684}{%
+           family={Bhattacharyya},
+           familyi={B\bibinitperiod},
+           given={Raunak},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{296e5b01bbc553d45303e9ab8ef1ecd8}
+      \strng{fullhash}{f1468cf92b43154263d9754caceb7721}
+      \strng{bibnamehash}{f1468cf92b43154263d9754caceb7721}
+      \strng{authorbibnamehash}{f1468cf92b43154263d9754caceb7721}
+      \strng{authornamehash}{296e5b01bbc553d45303e9ab8ef1ecd8}
+      \strng{authorfullhash}{f1468cf92b43154263d9754caceb7721}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ICAPS 2022 Workshop on Planning and Robotics (PlanRob)}
+      \field{title}{Time-Bounded Large-Scale Mission Planning Under Uncertainty for {UV} Disinfection}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{workshop}
+    \endentry
+    \entry{2022PLANROB_budd}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=68ff5163009b763d1d03229256aedb25}{%
+           family={Budd},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b88a4c481fe93755159e66d478c77934}{%
+           family={Salavasidis},
+           familyi={S\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=057fa9e2807e9dfdc8b2c31c96990f7d}{%
+           family={Kamarudzaman},
+           familyi={K\bibinitperiod},
+           given={Izzat},
+           giveni={I\bibinitperiod}}}%
+        {{hash=936628a9e93e1c3fe390ca7db2bbf9c7}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Catherine\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfa50602401476f8951ebb0d27c264de}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Alexander\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bf30daafe5dc3e539ddb8c23c9b4601c}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{fullhash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{bibnamehash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{authorbibnamehash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \strng{authornamehash}{afe1910fd11b61a147a50cf3e8a854c2}
+      \strng{authorfullhash}{03017f7e0313bf6327a3ad894bbc5b89}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ICAPS 2022 Workshop on Planning and Robotics (PlanRob)}
+      \field{title}{Probabilistic Planning for {AUV} Data Harvesting from Smart Underwater Sensor Networks}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{workshop}
+    \endentry
+    \entry{2022ARMS_street}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=97664adc8adc876d8cd902d8da2d0b9a}{%
+           family={Street},
+           familyi={S\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7191d5738229718fe891c52a6cd9102b}{%
+           family={Lacerda},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=20d16aa048c6929f238a7c0ccc26cfd4}{%
+           family={Mühlig},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae82b1782be057db351b013d9858dade}{%
+           family={Hawes},
+           familyi={H\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{76218deb144453f3a2a1b06d587c0fc4}
+      \strng{fullhash}{0be27a225aa89c4db927fbde4c3b0455}
+      \strng{bibnamehash}{0be27a225aa89c4db927fbde4c3b0455}
+      \strng{authorbibnamehash}{0be27a225aa89c4db927fbde4c3b0455}
+      \strng{authornamehash}{76218deb144453f3a2a1b06d587c0fc4}
+      \strng{authorfullhash}{0be27a225aa89c4db927fbde4c3b0455}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AAMAS 2022 Workshop on Autonomous Robots and Multirobot Systems (ARMS)}
+      \field{title}{Proactive Multi-Robot Task Allocation Under Spatiotemporal Uncertainty}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{workshop}
     \endentry
     \entry{2021R2AW_budd}{inproceedings}{}
       \name{author}{4}{}{%
@@ -1471,15 +2088,19 @@
       }
       \strng{namehash}{afe1910fd11b61a147a50cf3e8a854c2}
       \strng{fullhash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \strng{bibnamehash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
+      \strng{authorbibnamehash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
       \strng{authornamehash}{afe1910fd11b61a147a50cf3e8a854c2}
       \strng{authorfullhash}{3ce2ca06d39d6eef041c1fa9b41d7b89}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{extraname}{5}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{IJCAI 2021 Workshop on Robust and Reliable Autonomy in the Wild (R\textsuperscript{2}AW)}
       \field{title}{Mission Planning in Unknown Environments as {B}ayesian Reinforcement Learning}
       \field{year}{2021}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{2021R2AW_costen}{inproceedings}{}
@@ -1507,15 +2128,19 @@
       }
       \strng{namehash}{50e4be36fa956b6702399d67b411b858}
       \strng{fullhash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{bibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
+      \strng{authorbibnamehash}{97cb20fe352c8d50d191d37b9bf28fad}
       \strng{authornamehash}{50e4be36fa956b6702399d67b411b858}
       \strng{authorfullhash}{97cb20fe352c8d50d191d37b9bf28fad}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{IJCAI 2021 Workshop on Robust and Reliable Autonomy in the Wild (R\textsuperscript{2}AW)}
       \field{title}{Mixed Observability MDPs for Shared Autonomy with Uncertain Human Behaviour}
       \field{year}{2021}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{2020WOMAPF_gautier}{inproceedings}{}
@@ -1543,15 +2168,19 @@
       }
       \strng{namehash}{5d89db7857486787305a30109a2fef2f}
       \strng{fullhash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \strng{bibnamehash}{36c8b909ef6c5a1feadd4fd379d6be92}
+      \strng{authorbibnamehash}{36c8b909ef6c5a1feadd4fd379d6be92}
       \strng{authornamehash}{5d89db7857486787305a30109a2fef2f}
       \strng{authorfullhash}{36c8b909ef6c5a1feadd4fd379d6be92}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{extraname}{3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{IJCAI 2020 Workshop on Multi-Agent Path Finding}
       \field{title}{Negotiated Path Planning for Non-Cooperative Multi-Robot Systems}
       \field{year}{2020}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{masoumeh_rrt19}{inproceedings}{}
@@ -1582,15 +2211,19 @@
       }
       \strng{namehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{fullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
+      \strng{bibnamehash}{7c9cd2e4e54e27c4969cea3690a633c6}
+      \strng{authorbibnamehash}{7c9cd2e4e54e27c4969cea3690a633c6}
       \strng{authornamehash}{5759e533b484b7edd83bb1378d7960eb}
       \strng{authorfullhash}{7c9cd2e4e54e27c4969cea3690a633c6}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{ICRA 2019 Workshop on Resilient Robot Teams: Composing, Acting, and Learning}
       \field{title}{Multi-Robot Planning Under Uncertain Travel Times and Safety Constraints}
       \field{year}{2019}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{lacerda_vavas18}{inproceedings}{}
@@ -1616,15 +2249,19 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{extraname}{4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{FLoC 2018 Workshop on the Verification and Validation of Autonomous Systems (VaVAS)}
       \field{title}{Policy Generation with Probabilistic Guarantees for Long-term Autonomy of a Mobile Robot}
       \field{year}{2018}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{lacerda_sdmia15}{inproceedings}{}
@@ -1650,15 +2287,19 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{extraname}{5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{AAAI Fall Symposium on Sequential Decision Making for Intelligent Agents (SDMIA)}
       \field{title}{Nested Value Iteration for Partially Satisfiable Co-Safe LTL Specifications (Extended Abstract)}
       \field{year}{2015}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{lacerda_plansig13}{inproceedings}{}
@@ -1684,15 +2325,19 @@
       }
       \strng{namehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{fullhash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{bibnamehash}{f02b35ddb007c8afb3534d506514b82f}
+      \strng{authorbibnamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authornamehash}{f02b35ddb007c8afb3534d506514b82f}
       \strng{authorfullhash}{f02b35ddb007c8afb3534d506514b82f}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{extraname}{6}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{31st Workshop of the UK Planning \& Scheduling Special Interest Group (PlanSIG)}
       \field{title}{Optimal Motion Planning for {M}arkov Decision Processes with Co-Safe Linear Temporal Logic Specifications}
       \field{year}{2014}
+      \true{nocite}
       \keyw{workshop}
     \endentry
     \entry{lacerda_adapt09}{inproceedings}{}
@@ -1702,7 +2347,7 @@
            familyi={L\bibinitperiod},
            given={Bruno},
            giveni={B\bibinitperiod}}}%
-        {{hash=14a7fdd9f4cbf1004c531fc37393d3d3}{%
+        {{hash=20373cc6c904c819b0945db23115fd24}{%
            family={Lima},
            familyi={L\bibinitperiod},
            given={Pedro\bibnamedelima U.},
@@ -1711,20 +2356,24 @@
       \list{location}{1}{%
         {Budapest, Hungary}%
       }
-      \strng{namehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{fullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authornamehash}{ffaba396d8f2899c2ffc70d03b946286}
-      \strng{authorfullhash}{ffaba396d8f2899c2ffc70d03b946286}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \strng{namehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{fullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{bibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorbibnamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authornamehash}{b6c52288289043e2aa1671d42d3b7b50}
+      \strng{authorfullhash}{b6c52288289043e2aa1671d42d3b7b50}
+      \field{extraname}{8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{AAMAS 2009 Workshop on Agent Design: Advancing from Practice to Theory (ADAPT)}
       \field{title}{{LTL} Plan Specification for Robotic Tasks Modelled as Finite State Automata}
       \field{year}{2009}
+      \true{nocite}
       \keyw{workshop}
     \endentry
-  \endsortlist
+  \enddatalist
 \endrefsection
 \endinput
 
